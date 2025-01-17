@@ -4,8 +4,7 @@ Modern uygulamaların Windows 8.1 üzerinde çalışmasını sağlamak adına ol
 # Kullanım
 İlk kurulum için setup.bat yonetici olarak çalıştırılıp kurulum bitirildiğinde;                                                                                                  
 
-apiv1.exe C:\uygulama\yolu\ornek.exe                                                                                                                                             
-
+`apiv1.exe` `C:\uygulama\yolu\ornek.exe`                                                                                                                                          
 şeklinde kullanılabilir.
 
 # Uygulama uyumlulugu ✔
