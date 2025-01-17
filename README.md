@@ -2,7 +2,7 @@
 Modern uygulamaların Windows 8.1 üzerinde çalışmasını sağlamak adına oluşturulmuş kütüphane. 
 
 # Kullanım
-İlk kurulum için setup.bat yonetici olarak çalıştırılıp kurulum bitirildiğinde;
+İlk kurulum için setup.bat yonetici olarak çalıştırılıp kurulum bitirildiğinde;                                                                                                  
 apiv1.exe C:\uygulama\yolu\ornek.exe
 şeklinde kullanılabilir.
 
