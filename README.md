@@ -5,7 +5,7 @@ Modern uygulamaların Windows 8.1 üzerinde çalışmasını sağlamak adına ol
 İlk kurulum için `setup.bat` yonetici olarak çalıştırılıp kurulum bitirildiğinde;                                                                                                  
 
 ```bash 
-  apiv1.exe C:\uygulama\yolu\ornek.exe
+apiv1.exe C:\uygulama\yolu\ornek.exe
 ```                                                                                                                                     
 
 
