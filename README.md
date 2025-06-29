@@ -2,16 +2,20 @@
 Modern uygulamaların Windows 8.1 üzerinde çalışmasını sağlamak adına oluşturulmuş kütüphane. 
 
 ## Kullanım
-İlk kurulum için `setup.bat` yonetici olarak çalıştırılıp kurulum bitirildiğinde;                                                                                                  
+İlk kurulum için `setup.bat` çalıştırılıp kurulum bitirildiğinde;                                                                                                  
 
 ```bash 
-apiv1.exe C:\uygulama\yolu\ornek.exe
+user.bat ile yada coaload.exe <uygulama\yolu\ornek.exe>
 ```                                                                                                                                     
 
 
 şeklinde kullanılabilir.
-
+Ayrıca setup çalıştırıldıktan sonra user.bat'ın masaüstü kısayolu bulunmaktadır.
 ## Uygulama uyumlulugu ✔
-Şu an için Electron/Chromium uygulamaları desteği bulunmamaktadır.
-Electron ve diğer Chromium uygulamaları için destek ikinci versiyon üzerinde planlanıyor.
-Geri kalan programları listelemedim fakat bir sıkıntı oluşursa issue açabilirsiniz.
+Chromium uygulamaları için destek üzerine çalışılıyor. Testbuildleri Chromium üzerinde test edip ortaya çıkan sorunlar(varsa) issue açarsanız geliştirmeye büyük oranda katkı sağlamış olursunuz.
+Önceki versiyonda olduğu gibi bir liste oluşturmadım, oluştururum büyük ihtimalle. Çalışan programları da issue bölümünden bildirebilirsiniz.
+## C ile başlayan mesaj kutuları ne anlama geliyor ?
+Bilerek getirildi, kod içinde testbox(L"ornek") şeklinde kullanılıyor. Hangi apinin sıkıntı çıkardığını öğrenmek için. Eğer bir API'yi yanlış yazdıysam bu şekilde program çökmeden önceki son mesaj kutusunun kodu ile 
+hatayı daha rahat anlayabiliyorum. Eğer bu şekilde bir mesaj kutusu program başlangıcında gelirse yada programın içinde iken karşınıza çıkarsa not alın. Sistem donması, çökme gibi sorunlar yaşandığında teşhis etmek kolaylaşıyor.
+Sadece Test sürümlerinde olan bir özellik olarak planlandı. Belki ana sürüme de getirebilirim.
+
