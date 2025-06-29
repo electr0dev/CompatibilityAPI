@@ -13,7 +13,7 @@ Ayrıca setup çalıştırıldıktan sonra user.bat'ın masaüstü kısayolu bul
 Chromium uygulamaları için destek üzerine çalışılıyor. Testbuildleri Chromium üzerinde test edip ortaya çıkan sorunlar(varsa) issue açarsanız geliştirmeye büyük oranda katkı sağlamış olursunuz.
 Önceki versiyonda olduğu gibi bir liste oluşturmadım, oluştururum büyük ihtimalle. Çalışan programları da issue bölümünden bildirebilirsiniz.
 Diğer programlarda büyük sorunlar görmedim, çalışmayan programları varsa C ile başlayan hata kodu ile, yoksa Windows hata kodunu(giriş noktası bulunamadı gibi), hiç yoksa
-https://github.com/user-attachments/assets/6ea73948-e7df-4ae9-901f-6fb8cf79489c
+![Ekran görüntüsü 2025-06-27 223546](https://github.com/user-attachments/assets/0f121b92-a8d0-4331-b657-085bbd4229d3)
 bunun gibi olan ekran görüntüsünü issue kısmında paylaşırsanız yukarıda da dediğim gibi geliştirmeye büyük katkılar sağlamış olursunuz.
 ## C ile başlayan mesaj kutuları ne anlama geliyor ?
 Bilerek getirildi, kod içinde testbox(L"ornek") şeklinde kullanılıyor. Hangi apinin sıkıntı çıkardığını öğrenmek için. Eğer bir API'yi yanlış yazdıysam bu şekilde program çökmeden önceki son mesaj kutusunun kodu ile 
