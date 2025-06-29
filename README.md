@@ -23,3 +23,6 @@ Bilerek getirildi, kod içinde testbox(L"ornek") şeklinde kullanılıyor. Temel
 hatayı daha rahat anlayabiliyorum. Eğer bu şekilde bir mesaj kutusu program başlangıcında gelirse yada programın içinde iken karşınıza çıkarsa not alın. Sistem donması, çökme gibi sorunlar yaşandığında teşhis etmek kolaylaşıyor.
 Sadece Test sürümlerinde olan bir özellik olarak planlandı. Belki ana sürüme de getirebilirim.
 
+## Son olarak
+@JacquelinPOTIER'e Dll Proxy Template Generator için teşekkür ederim. Forwardları oluşturmak için kullnamıştım, teşekkür edeyim dedim. 
+
