@@ -24,5 +24,5 @@ hatayı daha rahat anlayabiliyorum. Eğer bu şekilde bir mesaj kutusu program b
 Sadece Test sürümlerinde olan bir özellik olarak planlandı. Belki ana sürüme de getirebilirim.
 
 ## Son olarak
-@JacquelinPOTIER'e Dll Proxy Template Generator için teşekkür ederim. Forwardları oluşturmak için kullnamıştım, teşekkür edeyim dedim. 
+@JacquelinPOTIER'e Dll Proxy Template Generator için teşekkür ederim. Forwardları oluşturmak için kullanmıştım, teşekkür edeyim dedim. 
 
