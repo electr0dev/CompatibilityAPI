@@ -1,0 +1,1 @@
+powershell "$s=(New-Object -ComObject WScript.Shell).CreateShortcut([Environment]::GetFolderPath('Desktop')+'\CompatibilityAPI shell.lnk');$s.TargetPath='C:\CompatibilityAPI\user.bat';$s.Save()"
