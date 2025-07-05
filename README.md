@@ -54,5 +54,11 @@ If you see one of these message boxes at program startup or while using the prog
 
 This feature is planned to be available only in test builds.
 
+## Son olarak
+@JacquelinPOTIER'e Dll Proxy Template Generator için teşekkür ederim. Forwardları oluşturmak için kullanmıştım.
+
+## Finally
+Thanks to @JacquelinPOTIER for the Dll Proxy Template Generator. I used it to create the forwards.
+
 
 
