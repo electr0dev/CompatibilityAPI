@@ -1,0 +1,1 @@
+Bir sonraki release'de dnsapi exportları eklenecek, bu klasör rezerve edildi.
