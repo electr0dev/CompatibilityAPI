@@ -3,4 +3,4 @@
   Generating code
 c:\users\alper\compatibilityapi\coasetup\coasetup\main.cpp(141): warning C4715: 'WinMain' : not all control paths return a value
   Finished generating code
-  coasetup.vcxproj -> C:\Users\alper\compatibilityapi\coasetup\coasetup\Release\coasetup.exe
+  coasetup.vcxproj -> C:\Users\alper\CompatibilityAPI\coasetup\coasetup\Release\coasetup.exe

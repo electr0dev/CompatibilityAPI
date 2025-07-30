@@ -92,8 +92,8 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
 			KEY_SET_VALUE | KEY_WOW64_64KEY,
 			&hKey2) == ERROR_SUCCESS) {
 
-			RegSetValueExA(hKey2, "CurrentMajorVersion", 0, REG_DWORD, (BYTE*)&majorVersion, sizeof(majorVersion));
-			RegSetValueExA(hKey2, "CurrentMinorVersion", 0, REG_DWORD, (BYTE*)&minorVersion, sizeof(minorVersion));
+			RegSetValueExA(hKey2, "CurrentMajorVersionNumber", 0, REG_DWORD, (BYTE*)&majorVersion, sizeof(majorVersion));
+			RegSetValueExA(hKey2, "CurrentMinorVersionNumber", 0, REG_DWORD, (BYTE*)&minorVersion, sizeof(minorVersion));
 			RegCloseKey(hKey2);
 		}
 
@@ -121,8 +121,8 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
 			KEY_SET_VALUE | KEY_WOW64_32KEY,
 			&hKey2) == ERROR_SUCCESS) {
 
-			RegSetValueExA(hKey2, "CurrentMajorVersion", 0, REG_DWORD, (BYTE*)&majorVersion, sizeof(majorVersion));
-			RegSetValueExA(hKey2, "CurrentMinorVersion", 0, REG_DWORD, (BYTE*)&minorVersion, sizeof(minorVersion));
+			RegSetValueExA(hKey2, "CurrentMajorVersionNumber", 0, REG_DWORD, (BYTE*)&majorVersion, sizeof(majorVersion));
+			RegSetValueExA(hKey2, "CurrentMinorVersionNumber", 0, REG_DWORD, (BYTE*)&minorVersion, sizeof(minorVersion));
 			RegCloseKey(hKey2);
 		}
 
