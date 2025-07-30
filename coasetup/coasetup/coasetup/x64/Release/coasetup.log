@@ -1,0 +1,23 @@
+﻿Build started 26.07.2025 15:09:01.
+     1>Project "C:\Users\alper\compatibilityapi\coasetup\coasetup\coasetup\coasetup.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Release\coasetup.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D "WIN32" /D NDEBUG /D "_WINDOWS" /D "_UNICODE" /D "UNICODE" /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt ..\main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\alper\compatibilityapi\coasetup\coasetup\x64\Release\coasetup.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\coasetup.exe.intermediate.manifest" /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /DEBUG /PDB:"C:\Users\alper\compatibilityapi\coasetup\coasetup\x64\Release\coasetup.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\alper\compatibilityapi\coasetup\coasetup\x64\Release\coasetup.lib" /MACHINE:X64 x64\Release\main.obj
+         Generating code
+     1>c:\users\alper\compatibilityapi\coasetup\coasetup\main.cpp(75): warning C4715: 'WinMain' : not all control paths return a value
+         Finished generating code
+         coasetup.vcxproj -> C:\Users\alper\compatibilityapi\coasetup\coasetup\x64\Release\coasetup.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\alper\compatibilityapi\coasetup\coasetup\x64\Release\coasetup.exe;#1" /manifest x64\Release\coasetup.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "x64\Release\coasetup.unsuccessfulbuild".
+         Touching "x64\Release\coasetup.lastbuildstate".
+     1>Done Building Project "C:\Users\alper\compatibilityapi\coasetup\coasetup\coasetup\coasetup.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.92
