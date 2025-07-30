@@ -1,5 +1,0 @@
-﻿  main.cpp
-main.cpp(23): warning C4101: 'hKey' : unreferenced local variable
-  Generating code
-  Finished generating code
-  coauninst.vcxproj -> C:\Users\alper\compatibilityapi\coauninst\coauninst\Release\coauninst.exe
