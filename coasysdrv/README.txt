@@ -1,1 +1,0 @@
-Normalde coasysdrv de yayınlanacaktı ancak kaynak dosyaları bozulmuş olduğundan(yanlışlıkla bozuk vs2022 yüklemesi ile açtım) daha sonraki sürümlerde yayınlanacak. Şu anlık CFF Explorer ile Optional Headerdeki MajorOperatingSystemVersion ve MajorSubsystemVersion bölümlerinin değerlerini eğer "A" ise "6" olarak değiştirip çalıştırabilirsiniz.
