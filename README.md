@@ -5,7 +5,7 @@ Modern uygulamaların Windows 8.1 üzerinde çalışmasını sağlamak adına ol
 İlk kurulum için `setup.bat` çalıştırılıp kurulum bitirildiğinde;                                                                                                  
 
 ```bash 
-user.bat ile yada coaload.exe <uygulama\yolu\ornek.exe>
+coaload.exe <uygulama\yolu\ornek.exe> yada -cfg ornek.txt
 ```                                                                                                                                     
 şeklinde kullanılabilir.
 Ayrıca setup çalıştırıldıktan sonra user.bat'ın masaüstü kısayolu bulunmaktadır.
