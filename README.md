@@ -57,8 +57,12 @@ This feature is planned to be available only in test builds.
 ## Son olarak
 @JacquelinPOTIER'e Dll Proxy Template Generator için teşekkür ederim. Forwardları oluşturmak için kullanmıştım.
 
+MinHook projesine API Hook kütüphanesi için teşekkür ederim.
+
 ## Finally
 Thanks to @JacquelinPOTIER for the Dll Proxy Template Generator. I used it to create the forwards.
+
+Thanks to MinHook project for API Hook library.
 
 
 
