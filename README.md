@@ -4,7 +4,7 @@ Modern uygulamaların Windows 8.1 üzerinde çalışmasını sağlamak adına ol
 A library designed to make modern apps work on Windows 8.1.
 
 ## Kullanım
-İlk kurulum için `setup.bat` çalıştırılıp kurulum bitirildiğinde;                                                                                                  
+İlk kurulum için `coasetup.exe` çalıştırılıp kurulum bitirildiğinde;                                                                                                  
 
 ```bash 
 user.bat ile yada coaload.exe <uygulama\yolu\ornek.exe>
@@ -14,14 +14,14 @@ user.bat ile yada coaload.exe <uygulama\yolu\ornek.exe>
 Setup çalıştırıldıktan sonra user.bat'ın masaüstü kısayolu bulunmaktadır.
 
 ## Usage
-To set it up for the first time, run setup.bat. Once that’s done, you can use it like this:
+To set it up for the first time, run coasetup.exe. Once that’s done, you can use it like this:
 
 ```bash 
 with user.bat or
 coaload.exe <path\tofile\ornek.exe>
 ```
 
-After running the setup, a shortcut to user.bat will be available on the desktop.
+After running the coasetup.exe, a shortcut to user.bat will be available on the desktop.
 
 ## Uygulama uyumlulugu ✔
 Chromium uygulamaları için destek üzerine çalışılıyor. Testbuildleri Chromium üzerinde test edip ortaya çıkan sorunlar(varsa) issue açarsanız geliştirmeye büyük oranda katkı sağlamış olursunuz.
