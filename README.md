@@ -1,5 +1,5 @@
 # CompatibilityAPI ✨
-Modern uygulamaların Windows 8.1 üzerinde çalışmasını sağlamak adına oluşturulmuş kütüphane. 
+Modern uygulamaların Windows 8.1 üzerinde çalışmasını sağlamak adına oluşturulmuş uyumluluk katmanı.
 
 ## Kullanım
 İlk kurulum için `setup.bat` çalıştırılıp kurulum bitirildiğinde;                                                                                                  
