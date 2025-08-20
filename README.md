@@ -1,7 +1,7 @@
 # CompatibilityAPI ✨
-Modern uygulamaların Windows 8.1 üzerinde çalışmasını sağlamak adına oluşturulmuş kütüphane.
+Modern uygulamaların Windows 8.1 üzerinde çalışmasını sağlamak adına oluşturulmuş uyumluluk katmanı.
 
-A library designed to make modern apps work on Windows 8.1.
+A compatibility layer designed to make modern apps work on Windows 8.1.
 
 ## Kullanım
 İlk kurulum için `coasetup.exe` çalıştırılıp kurulum bitirildiğinde;                                                                                                  
