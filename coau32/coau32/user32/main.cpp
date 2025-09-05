@@ -14,6 +14,7 @@ typedef enum PROCESS_DPI_AWARENESS {
 } PROCESS_DPI_AWARENESS;
 #endif
 
+
 HMODULE hShcore = LoadLibraryW(L"shcore.dll");
 
 typedef HRESULT(WINAPI *GETPROCESSDPIAWARENESS)(HANDLE hProcess, PROCESS_DPI_AWARENESS *value); //pGetProcessDpiAwareness <- shcore.dll/GetProcessDpiAwareness
@@ -197,6 +198,36 @@ BOOL WINAPI EnableNonClientDpiScaling(HWND hWnd)
 }
 
 extern "C" __declspec(dllexport)
+HSYNTHETICPOINTERDEVICE WINAPI CreateSyntheticPointerDevice(
+	POINTER_INPUT_TYPE pointerType,
+	UINT32 maxCount,
+	POINTER_FEEDBACK_MODE mode
+) {
+	testbox(L"C_USR_11");
+	// Windows 8.1'de destek yok → sahte bir handle dönelim
+	return (HSYNTHETICPOINTERDEVICE)1;
+}
+
+extern "C" __declspec(dllexport)
+void WINAPI DestroySyntheticPointerDevice(
+	HSYNTHETICPOINTERDEVICE device
+) {
+	testbox(L"C_USR_12");
+	// Hiçbir şey yapma
+}
+
+extern "C" __declspec(dllexport)
+BOOL WINAPI InjectSyntheticPointerInput(
+	HSYNTHETICPOINTERDEVICE device,
+	const void* pointerInfo,
+	UINT32 count
+) {
+	testbox(L"C_USR_13");
+	// Daima başarılı dön
+	return TRUE;
+}
+
+extern "C" __declspec(dllexport)
 BOOL WINAPI IsWindowArranged(HWND hwnd)
 {
 	if (hwnd == NULL)
@@ -204,7 +235,7 @@ BOOL WINAPI IsWindowArranged(HWND hwnd)
 		// Eğer geçersiz bir pencere handle'ı varsa, düzenlenmiş sayılmaz.
 		return FALSE;
 	}
-
+	testbox(L"C_USR_14");
 	// Burada pencerenin düzenlendiği varsayılır.
 	// Gerçek işlevsellik burada yapılabilir (örneğin pencere görünürlük durumu).
 
@@ -221,7 +252,6 @@ BOOL WINAPI IsWindowArranged(HWND hwnd)
 
 BOOL ProcessAttach()
 {
-	disabletestbox();
     return TRUE;
 }
 

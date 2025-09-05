@@ -971,6 +971,9 @@
 #pragma comment(linker, "/export:SystemParametersInfoForDpi=_SystemParametersInfoForDpi@20,@2572")
 #pragma comment(linker, "/export:EnableNonClientDpiScaling=_EnableNonClientDpiScaling@4,@2573")
 #pragma comment(linker, "/export:IsWindowArranged=_IsWindowArranged@4,@2574")
+#pragma comment(linker, "/export:CreateSyntheticPointerDevice=_CreateSyntheticPointerDevice@12,@2575")
+#pragma comment(linker, "/export:InjectSyntheticPointerInput=_InjectSyntheticPointerInput@12,@2576")
+#pragma comment(linker, "/export:DestroySyntheticPointerDevice=_DestroySyntheticPointerDevice@4,@2577")
 //32 bit adresler
 //_AdjustWindowRectExForDpi@20
 //_GetSystemMetricsForDpi@8
@@ -983,4 +986,7 @@
 //_SystemParametersInfoForDpi@20
 //_EnableNonClientDpiScaling@4
 //_IsWindowArranged@4
+//_CreateSyntheticPointerDevice@12
+//_DestroySyntheticPointerDevice@4
+//_InjectSyntheticPointerInput@12
 

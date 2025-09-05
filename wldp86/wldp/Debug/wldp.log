@@ -1,0 +1,17 @@
+﻿Build started 10.08.2025 12:59:50.
+     1>Project "C:\Users\alper\CompatibilityAPI\wldp\wldp\wldp\wldp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D "_WINDOWS" /D _USRDLL /D WLDP_EXPORTS /D "_WINDLL" /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D "_UNICODE" /D "UNICODE" /l"0x0409" /nologo /fo"Debug\wldp.res" wldp.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\alper\CompatibilityAPI\wldp\wldp\Debug\wldp.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\alper\CompatibilityAPI\wldp\wldp\Debug\wldp.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\alper\CompatibilityAPI\wldp\wldp\Debug\wldp.lib" /MACHINE:X86 /DLL Debug\wldp.res
+         Debug\main.obj
+            Creating library C:\Users\alper\CompatibilityAPI\wldp\wldp\Debug\wldp.lib and object C:\Users\alper\CompatibilityAPI\wldp\wldp\Debug\wldp.exp
+         wldp.vcxproj -> C:\Users\alper\CompatibilityAPI\wldp\wldp\Debug\wldp.dll
+     1>Done Building Project "C:\Users\alper\CompatibilityAPI\wldp\wldp\wldp\wldp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.17

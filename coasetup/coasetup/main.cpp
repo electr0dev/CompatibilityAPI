@@ -28,6 +28,7 @@ void kopyala_dosya(){
 	CopyFileA("MinHook.x86.dll", "C:\\CompatibilityAPI\\MinHook.x86.dll", FALSE);
 	CopyFileA("MinHook.x64.dll", "C:\\CompatibilityAPI\\MinHook.x64.dll", FALSE);//MinHook projesine teþekkürler.
 	CopyFileA("coasetup.exe", "C:\\CompatibilityAPI\\coasetup.exe", FALSE);
+	CopyFileA("coamake.exe", "C:\\CompatibilityAPI\\coamake.exe", FALSE);
 	DWORD kopyalamaislemihataKodu = GetLastError();
 	LPWSTR kopyalahatakodyazdirilabilir = nullptr;
 	FormatMessageW(
@@ -139,7 +140,6 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
     }
 	   
   }
-//Güzel günler geçti çabucak, yakýnda bir fýrtýna kopacak, güvendiðin daðlar önce seni yutacak
 
 
 

@@ -14,6 +14,7 @@ typedef enum PROCESS_DPI_AWARENESS {
 } PROCESS_DPI_AWARENESS;
 #endif
 
+
 HMODULE hShcore = LoadLibraryW(L"shcore.dll");
 
 typedef HRESULT(WINAPI *GETPROCESSDPIAWARENESS)(HANDLE hProcess, PROCESS_DPI_AWARENESS *value); //pGetProcessDpiAwareness <- shcore.dll/GetProcessDpiAwareness
@@ -40,11 +41,11 @@ BOOL WINAPI DllMain(HINSTANCE hInstDLL, DWORD dwReason, PVOID pvReserved)
 
 extern "C" __declspec(dllexport)
 BOOL WINAPI AdjustWindowRectExForDpi(
-	LPRECT lpRect,
-	DWORD dwStyle,
-	BOOL bMenu,
-	DWORD dwExStyle,
-	UINT dpi)
+LPRECT lpRect,
+DWORD dwStyle,
+BOOL bMenu,
+DWORD dwExStyle,
+UINT dpi)
 {
 	testbox(L"C_USR_1");
 	// adjustwindowrectex() fonksiyonunu kullanacağız.
@@ -61,11 +62,11 @@ INT WINAPI GetSystemMetricsForDpi(int nIndex, UINT dpi) //Fonksiyonun Dpi olmaya
 
 extern "C" __declspec(dllexport)
 BOOL WINAPI SystemParametersInfoForDpi(
-	UINT uiAction,
-	UINT uiParam,
-	PVOID pvParam,
-	UINT fWinIni,
-	UINT dpi // hedef DPI
+UINT uiAction,
+UINT uiParam,
+PVOID pvParam,
+UINT fWinIni,
+UINT dpi // hedef DPI
 )
 {
 	testbox(L"C_USR_3");
@@ -77,7 +78,7 @@ BOOL WINAPI SystemParametersInfoForDpi(
 		scaledParam,
 		pvParam,
 		fWinIni
-	);
+		);
 }
 
 
@@ -86,15 +87,15 @@ UINT WINAPI GetDpiForWindow(HWND hwnd)
 {
 	testbox(L"C_USR_4");
 	(void)hwnd;  // kullanılmıyor
-				 // Daha yeni bir API olan GetDpiForMonitor da kullanabilirdim ancak bu daha kolay geldi.
-				 // Ekranın (tüm sistemin) cihaz bağlamını al
+	// Daha yeni bir API olan GetDpiForMonitor da kullanabilirdim ancak bu daha kolay geldi.
+	// Ekranın (tüm sistemin) cihaz bağlamını al
 	HDC hdc = GetDC(NULL);  // NULL → ekranın DC'si
 
-							// DPI değerlerini al (yatay ve dikey)
+	// DPI değerlerini al (yatay ve dikey)
 	int dpiX = GetDeviceCaps(hdc, LOGPIXELSX);  // genelde 96, 120, 144 vs.
 	int dpiY = GetDeviceCaps(hdc, LOGPIXELSY);  // genelde aynıdır
 
-												// İşimiz bitti, DC'yi serbest bırak
+	// İşimiz bitti, DC'yi serbest bırak
 	ReleaseDC(NULL, hdc);
 
 	return dpiX;
@@ -197,6 +198,36 @@ BOOL WINAPI EnableNonClientDpiScaling(HWND hWnd)
 }
 
 extern "C" __declspec(dllexport)
+HSYNTHETICPOINTERDEVICE WINAPI CreateSyntheticPointerDevice(
+POINTER_INPUT_TYPE pointerType,
+UINT32 maxCount,
+POINTER_FEEDBACK_MODE mode
+) {
+	testbox(L"C_USR_11");
+	// Windows 8.1'de destek yok → sahte bir handle dönelim
+	return (HSYNTHETICPOINTERDEVICE)1;
+}
+
+extern "C" __declspec(dllexport)
+void WINAPI DestroySyntheticPointerDevice(
+HSYNTHETICPOINTERDEVICE device
+) {
+	testbox(L"C_USR_12");
+	// Hiçbir şey yapma
+}
+
+extern "C" __declspec(dllexport)
+BOOL WINAPI InjectSyntheticPointerInput(
+HSYNTHETICPOINTERDEVICE device,
+const void* pointerInfo,
+UINT32 count
+) {
+	testbox(L"C_USR_13");
+	// Daima başarılı dön
+	return TRUE;
+}
+
+extern "C" __declspec(dllexport)
 BOOL WINAPI IsWindowArranged(HWND hwnd)
 {
 	if (hwnd == NULL)
@@ -204,7 +235,7 @@ BOOL WINAPI IsWindowArranged(HWND hwnd)
 		// Eğer geçersiz bir pencere handle'ı varsa, düzenlenmiş sayılmaz.
 		return FALSE;
 	}
-
+	testbox(L"C_USR_14");
 	// Burada pencerenin düzenlendiği varsayılır.
 	// Gerçek işlevsellik burada yapılabilir (örneğin pencere görünürlük durumu).
 
@@ -221,7 +252,6 @@ BOOL WINAPI IsWindowArranged(HWND hwnd)
 
 BOOL ProcessAttach()
 {
-	disabletestbox();
 	return TRUE;
 }
 

@@ -1571,6 +1571,7 @@
 #pragma comment(linker, "/export:DiscardVirtualMemory=kernelbase.DiscardVirtualMemory,@1563")
 #pragma comment(linker, "/export:GetSystemCpuSetInformation=_GetSystemCpuSetInformation@20,@1564")
 #pragma comment(linker, "/export:VirtualAlloc2=_VirtualAlloc2@28,@1565")
+#pragma comment(linker, "/export:QueryUnbiasedInterruptTimePrecise=_QueryUnbiasedInterruptTimePrecise@4,@1566")
 //#pragma comment(linker, "/export:VirtualAlloc2FromApp=VirtualAlloc2FromApp,@1566")
 //Eklenen\değiştirilen diğer fonksiyonların 32 bit adresleri 
 //64 bit kernel32'de bu adreslere gerek yok, o yüzden bu adresler 64 bit versiyonda kullanılmadı.
@@ -1593,3 +1594,4 @@
 //_GetSystemCpuSetInformation@20
 //_VirtualAlloc2@28
 //VirtualAlloc2FromApp
+//_QueryUnbiasedInterruptTimePrecise@4

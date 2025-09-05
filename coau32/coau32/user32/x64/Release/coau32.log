@@ -1,9 +1,16 @@
-﻿  forward.cpp
-  main.cpp
-main.cpp(47): warning C4100: 'dpi' : unreferenced formal parameter
-main.cpp(95): warning C4189: 'dpiY' : local variable is initialized but not referenced
-main.cpp(167): warning C4189: 'hr' : local variable is initialized but not referenced
-main.cpp(193): warning C4100: 'hWnd' : unreferenced formal parameter
+﻿  main.cpp
+main.cpp(48): warning C4100: 'dpi' : unreferenced formal parameter
+main.cpp(96): warning C4189: 'dpiY' : local variable is initialized but not referenced
+main.cpp(168): warning C4189: 'hr' : local variable is initialized but not referenced
+main.cpp(194): warning C4100: 'hWnd' : unreferenced formal parameter
+main.cpp(205): warning C4100: 'mode' : unreferenced formal parameter
+main.cpp(203): warning C4100: 'maxCount' : unreferenced formal parameter
+main.cpp(202): warning C4100: 'pointerType' : unreferenced formal parameter
+main.cpp(214): warning C4100: 'device' : unreferenced formal parameter
+main.cpp(224): warning C4100: 'count' : unreferenced formal parameter
+main.cpp(222): warning C4100: 'pointerInfo' : unreferenced formal parameter
+main.cpp(221): warning C4100: 'device' : unreferenced formal parameter
+  tests.cpp
   Running Code Analysis for C/C++...
 forward.obj : warning LNK4197: export 'AdjustWindowRectExForDpi' specified multiple times; using first specification
 forward.obj : warning LNK4197: export 'GetSystemMetricsForDpi' specified multiple times; using first specification
@@ -16,7 +23,10 @@ forward.obj : warning LNK4197: export 'GetThreadDpiAwarenessContext' specified m
 forward.obj : warning LNK4197: export 'SetProcessDpiAwarenessContext' specified multiple times; using first specification
 forward.obj : warning LNK4197: export 'EnableNonClientDpiScaling' specified multiple times; using first specification
 forward.obj : warning LNK4197: export 'IsWindowArranged' specified multiple times; using first specification
-     Creating library C:\Users\alper\compatibilityapi\coau32\coau32\user32\x64\Release\coau3264.lib and object C:\Users\alper\compatibilityapi\coau32\coau32\user32\x64\Release\coau3264.exp
+forward.obj : warning LNK4197: export 'CreateSyntheticPointerDevice' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'DestroySyntheticPointerDevice' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'InjectSyntheticPointerInput' specified multiple times; using first specification
+     Creating library C:\Users\alper\CompatibilityAPI\coau32\coau32\user32\x64\Release\coau3264.lib and object C:\Users\alper\CompatibilityAPI\coau32\coau32\user32\x64\Release\coau3264.exp
   Generating code
   Finished generating code
-  coau32.vcxproj -> C:\Users\alper\compatibilityapi\coau32\coau32\user32\x64\Release\coau3264.dll
+  coau32.vcxproj -> C:\Users\alper\CompatibilityAPI\coau32\coau32\user32\x64\Release\coau3264.dll

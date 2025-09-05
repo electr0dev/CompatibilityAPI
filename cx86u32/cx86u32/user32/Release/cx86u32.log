@@ -1,5 +1,19 @@
-﻿  forward.cpp
-     Creating library C:\Users\alper\compatibilityapi\cx86u32\cx86u32\user32\Release\cx86u32.lib and object C:\Users\alper\compatibilityapi\cx86u32\cx86u32\user32\Release\cx86u32.exp
-  Generating code
-  Finished generating code
-  cx86u32.vcxproj -> C:\Users\alper\compatibilityapi\cx86u32\cx86u32\user32\Release\cx86u32.dll
+﻿Build started 3.09.2025 18:10:34.
+     1>Project "C:\Users\alper\CompatibilityAPI\cx86u32\cx86u32\user32\cx86u32.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W4 /WX- /O2 /Oi /Ot /Oy- /GL /D "_SCL_SECURE_NO_WARNINGS" /D "_CRT_SECURE_NO_WARNINGS" /D "WIN32" /D NDEBUG /D "_WINDOWS" /D _USRDLL /D DllProxyTemplate_EXPORTS /D "_WINDLL" /D "_UNICODE" /D "UNICODE" /Gm- /EHa /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /GR- /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze /errorReport:prompt forward.cpp
+         forward.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\alper\CompatibilityAPI\cx86u32\cx86u32\user32\Release\cx86u32.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\alper\CompatibilityAPI\cx86u32\cx86u32\user32\Release\cx86u32.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\alper\CompatibilityAPI\cx86u32\cx86u32\user32\Release\cx86u32.lib" /MACHINE:X86 /SAFESEH /DLL Release\cx86u32.res
+         Release\main.obj
+         Release\forward.obj
+         Release\tests.obj
+            Creating library C:\Users\alper\CompatibilityAPI\cx86u32\cx86u32\user32\Release\cx86u32.lib and object C:\Users\alper\CompatibilityAPI\cx86u32\cx86u32\user32\Release\cx86u32.exp
+         Generating code
+         Finished generating code
+         cx86u32.vcxproj -> C:\Users\alper\CompatibilityAPI\cx86u32\cx86u32\user32\Release\cx86u32.dll
+     1>Done Building Project "C:\Users\alper\CompatibilityAPI\cx86u32\cx86u32\user32\cx86u32.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.33

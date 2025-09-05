@@ -32,9 +32,9 @@
 #define MemExtendedParameterTopDown                6
 
 // AttributeFlags bayraklarý (ULong64 alanýnda kullanýlýr)
-#define MEM_EXTENDED_PARAMETER_NONPAGED         0x02
-#define MEM_EXTENDED_PARAMETER_NONPAGED_LARGE   0x08
-#define MEM_EXTENDED_PARAMETER_NONPAGED_HUGE    0x10
+#define MEM_EXTENDED_PARAMETER_NONPAGED         0x00000001
+#define MEM_EXTENDED_PARAMETER_NONPAGED_LARGE   0x00000002
+#define MEM_EXTENDED_PARAMETER_NONPAGED_HUGE    0x00000004
 #define MEM_EXTENDED_PARAMETER_EC_CODE          0x40
 
 // NUMA default deðeri
@@ -43,6 +43,7 @@
 void testbox(LPCWSTR test);
 void disabletestbox();
 void starthook();
+void coabekle(int a);
 
 //eski hook fonksiyonlarý
 //BOOL coahook();

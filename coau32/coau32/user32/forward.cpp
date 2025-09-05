@@ -979,3 +979,6 @@
 #pragma comment(linker, "/export:SetProcessDpiAwarenessContext=SetProcessDpiAwarenessContext,@2572")
 #pragma comment(linker, "/export:EnableNonClientDpiScaling=EnableNonClientDpiScaling,@2573")
 #pragma comment(linker, "/export:IsWindowArranged=IsWindowArranged,@2574")
+#pragma comment(linker, "/export:CreateSyntheticPointerDevice=CreateSyntheticPointerDevice,@2575")
+#pragma comment(linker, "/export:DestroySyntheticPointerDevice=DestroySyntheticPointerDevice,@2576")
+#pragma comment(linker, "/export:InjectSyntheticPointerInput=InjectSyntheticPointerInput,@2577")
