@@ -1,0 +1,20 @@
+﻿forward.obj : warning LNK4197: export 'GetVersionExA' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'GetVersionExW' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'VerifyVersionInfoA' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'VerifyVersionInfoW' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'IsWow64Process2' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'GetSystemWow64Directory2A' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'GetSystemWow64Directory2W' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'IsWow64GuestMachineSupported' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'COAWINAPI' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'QueryAuxiliaryCounterFrequency' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'AdjustWindowRectExForDpi' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'CheckIsElevationEnabled' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'GetSystemCpuSetInformation' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'VirtualAlloc2' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'VirtualAlloc2FromApp' specified multiple times; using first specification
+forward.obj : warning LNK4197: export 'QueryUnbiasedInterruptTimePrecise' specified multiple times; using first specification
+     Creating library C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\x64\Release\coak32.lib and object C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\x64\Release\coak32.exp
+  Generating code
+  Finished generating code
+  coak32.vcxproj -> C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\x64\Release\coak32.dll

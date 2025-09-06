@@ -1,0 +1,1166 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(66,9): warning C4005: 'STATUS_WAIT_0': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2611,9):
+      önceki 'STATUS_WAIT_0' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(227,9): warning C4005: 'STATUS_ABANDONED_WAIT_0': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2612,9):
+      önceki 'STATUS_ABANDONED_WAIT_0' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(250,9): warning C4005: 'STATUS_USER_APC': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2613,9):
+      önceki 'STATUS_USER_APC' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(286,9): warning C4005: 'STATUS_TIMEOUT': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2614,9):
+      önceki 'STATUS_TIMEOUT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(295,9): warning C4005: 'STATUS_PENDING': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2615,9):
+      önceki 'STATUS_PENDING' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(751,9): warning C4005: 'DBG_EXCEPTION_HANDLED': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2616,9):
+      önceki 'DBG_EXCEPTION_HANDLED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(760,9): warning C4005: 'DBG_CONTINUE': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2617,9):
+      önceki 'DBG_CONTINUE' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(835,9): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2618,9):
+      önceki 'STATUS_SEGMENT_NOTIFICATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(998,9): warning C4005: 'STATUS_FATAL_APP_EXIT': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2619,9):
+      önceki 'STATUS_FATAL_APP_EXIT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1345,9): warning C4005: 'DBG_REPLY_LATER': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2620,9):
+      önceki 'DBG_REPLY_LATER' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1363,9): warning C4005: 'DBG_TERMINATE_THREAD': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2621,9):
+      önceki 'DBG_TERMINATE_THREAD' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1372,9): warning C4005: 'DBG_TERMINATE_PROCESS': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2622,9):
+      önceki 'DBG_TERMINATE_PROCESS' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1381,9): warning C4005: 'DBG_CONTROL_C': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2623,9):
+      önceki 'DBG_CONTROL_C' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1390,9): warning C4005: 'DBG_PRINTEXCEPTION_C': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2624,9):
+      önceki 'DBG_PRINTEXCEPTION_C' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1399,9): warning C4005: 'DBG_RIPEXCEPTION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2625,9):
+      önceki 'DBG_RIPEXCEPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1408,9): warning C4005: 'DBG_CONTROL_BREAK': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2626,9):
+      önceki 'DBG_CONTROL_BREAK' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1417,9): warning C4005: 'DBG_COMMAND_EXCEPTION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2627,9):
+      önceki 'DBG_COMMAND_EXCEPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1426,9): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2628,9):
+      önceki 'DBG_PRINTEXCEPTION_WIDE_C' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1458,9): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2629,9):
+      önceki 'STATUS_GUARD_PAGE_VIOLATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1469,9): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2630,9):
+      önceki 'STATUS_DATATYPE_MISALIGNMENT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1480,9): warning C4005: 'STATUS_BREAKPOINT': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2631,9):
+      önceki 'STATUS_BREAKPOINT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1491,9): warning C4005: 'STATUS_SINGLE_STEP': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2632,9):
+      önceki 'STATUS_SINGLE_STEP' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1794,9): warning C4005: 'STATUS_LONGJUMP': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2633,9):
+      önceki 'STATUS_LONGJUMP' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1821,9): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2634,9):
+      önceki 'STATUS_UNWIND_CONSOLIDATE' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1945,9): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2635,9):
+      önceki 'DBG_EXCEPTION_NOT_HANDLED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2112,9): warning C4005: 'STATUS_ACCESS_VIOLATION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2636,9):
+      önceki 'STATUS_ACCESS_VIOLATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2121,9): warning C4005: 'STATUS_IN_PAGE_ERROR': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2637,9):
+      önceki 'STATUS_IN_PAGE_ERROR' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2139,9): warning C4005: 'STATUS_INVALID_HANDLE': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2638,9):
+      önceki 'STATUS_INVALID_HANDLE' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2184,9): warning C4005: 'STATUS_INVALID_PARAMETER': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2639,9):
+      önceki 'STATUS_INVALID_PARAMETER' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2284,9): warning C4005: 'STATUS_NO_MEMORY': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2640,9):
+      önceki 'STATUS_NO_MEMORY' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2341,9): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2641,9):
+      önceki 'STATUS_ILLEGAL_INSTRUCTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2422,9): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2642,9):
+      önceki 'STATUS_NONCONTINUABLE_EXCEPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2431,9): warning C4005: 'STATUS_INVALID_DISPOSITION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2643,9):
+      önceki 'STATUS_INVALID_DISPOSITION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3364,9): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2644,9):
+      önceki 'STATUS_ARRAY_BOUNDS_EXCEEDED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3374,9): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2645,9):
+      önceki 'STATUS_FLOAT_DENORMAL_OPERAND' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3384,9): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2646,9):
+      önceki 'STATUS_FLOAT_DIVIDE_BY_ZERO' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3394,9): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2647,9):
+      önceki 'STATUS_FLOAT_INEXACT_RESULT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3404,9): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2648,9):
+      önceki 'STATUS_FLOAT_INVALID_OPERATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3414,9): warning C4005: 'STATUS_FLOAT_OVERFLOW': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2649,9):
+      önceki 'STATUS_FLOAT_OVERFLOW' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3424,9): warning C4005: 'STATUS_FLOAT_STACK_CHECK': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2650,9):
+      önceki 'STATUS_FLOAT_STACK_CHECK' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3434,9): warning C4005: 'STATUS_FLOAT_UNDERFLOW': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2651,9):
+      önceki 'STATUS_FLOAT_UNDERFLOW' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3444,9): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2652,9):
+      önceki 'STATUS_INTEGER_DIVIDE_BY_ZERO' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3454,9): warning C4005: 'STATUS_INTEGER_OVERFLOW': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2653,9):
+      önceki 'STATUS_INTEGER_OVERFLOW' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3464,9): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2654,9):
+      önceki 'STATUS_PRIVILEGED_INSTRUCTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4410,9): warning C4005: 'STATUS_STACK_OVERFLOW': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2655,9):
+      önceki 'STATUS_STACK_OVERFLOW' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4927,9): warning C4005: 'STATUS_DLL_NOT_FOUND': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2656,9):
+      önceki 'STATUS_DLL_NOT_FOUND' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4956,9): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2657,9):
+      önceki 'STATUS_ORDINAL_NOT_FOUND' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4966,9): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2658,9):
+      önceki 'STATUS_ENTRYPOINT_NOT_FOUND' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4976,9): warning C4005: 'STATUS_CONTROL_C_EXIT': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2659,9):
+      önceki 'STATUS_CONTROL_C_EXIT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(5054,9): warning C4005: 'STATUS_DLL_INIT_FAILED': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2660,9):
+      önceki 'STATUS_DLL_INIT_FAILED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(6051,9): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2661,9):
+      önceki 'STATUS_CONTROL_STACK_VIOLATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7645,9): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2662,9):
+      önceki 'STATUS_FLOAT_MULTIPLE_FAULTS' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7655,9): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2663,9):
+      önceki 'STATUS_FLOAT_MULTIPLE_TRAPS' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7787,9): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2664,9):
+      önceki 'STATUS_REG_NAT_CONSUMPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(8770,9): warning C4005: 'STATUS_HEAP_CORRUPTION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2665,9):
+      önceki 'STATUS_HEAP_CORRUPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(8998,9): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2666,9):
+      önceki 'STATUS_STACK_BUFFER_OVERRUN' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(9125,9): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2667,9):
+      önceki 'STATUS_INVALID_CRUNTIME_PARAMETER' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(9188,9): warning C4005: 'STATUS_ASSERTION_FAILURE': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2668,9):
+      önceki 'STATUS_ASSERTION_FAILURE' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10097,9): warning C4005: 'STATUS_ENCLAVE_VIOLATION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2669,9):
+      önceki 'STATUS_ENCLAVE_VIOLATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10884,9): warning C4005: 'STATUS_INTERRUPTED': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2670,9):
+      önceki 'STATUS_INTERRUPTED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10893,9): warning C4005: 'STATUS_THREAD_NOT_RUNNING': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2671,9):
+      önceki 'STATUS_THREAD_NOT_RUNNING' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(11205,9): warning C4005: 'STATUS_ALREADY_REGISTERED': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2672,9):
+      önceki 'STATUS_ALREADY_REGISTERED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(15323,9): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2674,9):
+      önceki 'STATUS_SXS_EARLY_DEACTIVATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(15332,9): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2675,9):
+      önceki 'STATUS_SXS_INVALID_DEACTIVATION' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(35,9): warning C4005: 'MEM_EXTENDED_PARAMETER_NONPAGED': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14655,9):
+      önceki 'MEM_EXTENDED_PARAMETER_NONPAGED' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(36,9): warning C4005: 'MEM_EXTENDED_PARAMETER_NONPAGED_LARGE': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14657,9):
+      önceki 'MEM_EXTENDED_PARAMETER_NONPAGED_LARGE' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(37,9): warning C4005: 'MEM_EXTENDED_PARAMETER_NONPAGED_HUGE': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14658,9):
+      önceki 'MEM_EXTENDED_PARAMETER_NONPAGED_HUGE' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(38,9): warning C4005: 'MEM_EXTENDED_PARAMETER_EC_CODE': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14660,9):
+      önceki 'MEM_EXTENDED_PARAMETER_EC_CODE' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(41,9): warning C4005: 'NUMA_NO_PREFERRED_NODE': makro yeniden tanımlama
+  ('main.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\minwinbase.h(453,9):
+      önceki 'NUMA_NO_PREFERRED_NODE' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(43,3): error C2371: 'MEM_EXTENDED_PARAMETER': yeniden tanımlama; temel türler farklı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14677,34):
+      'MEM_EXTENDED_PARAMETER' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(61,3): error C2371: 'SYSTEM_CPU_SET_INFORMATION': yeniden tanımlama; temel türler farklı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14094,44):
+      'SYSTEM_CPU_SET_INFORMATION' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(61,32): error C2371: 'PSYSTEM_CPU_SET_INFORMATION': yeniden tanımlama; temel türler farklı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14094,73):
+      'PSYSTEM_CPU_SET_INFORMATION' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(68,19): error C2440: '=': 'int' - 'CPU_SET_INFORMATION_TYPE' dönüşümü yapılamıyor
+      C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(68,19):
+      Numaralandırma türüne dönüştürme açık bir dönüştürme gerektiriyor (static_cast, C stili tür dönüştürme veya parantez içine alınmış işlev stili tür dönüştürme)
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(69,12): error C2039: 'CoaCpuSet': bir '_SYSTEM_CPU_SET_INFORMATION' üyesi değil
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14055,34):
+      '_SYSTEM_CPU_SET_INFORMATION' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(70,12): error C2039: 'CoaCpuSet': bir '_SYSTEM_CPU_SET_INFORMATION' üyesi değil
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14055,34):
+      '_SYSTEM_CPU_SET_INFORMATION' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(71,12): error C2039: 'CoaCpuSet': bir '_SYSTEM_CPU_SET_INFORMATION' üyesi değil
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14055,34):
+      '_SYSTEM_CPU_SET_INFORMATION' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(72,12): error C2039: 'CoaCpuSet': bir '_SYSTEM_CPU_SET_INFORMATION' üyesi değil
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14055,34):
+      '_SYSTEM_CPU_SET_INFORMATION' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(73,12): error C2039: 'CoaCpuSet': bir '_SYSTEM_CPU_SET_INFORMATION' üyesi değil
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14055,34):
+      '_SYSTEM_CPU_SET_INFORMATION' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(74,12): error C2039: 'CoaCpuSet': bir '_SYSTEM_CPU_SET_INFORMATION' üyesi değil
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14055,34):
+      '_SYSTEM_CPU_SET_INFORMATION' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(75,12): error C2039: 'CoaCpuSet': bir '_SYSTEM_CPU_SET_INFORMATION' üyesi değil
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14055,34):
+      '_SYSTEM_CPU_SET_INFORMATION' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(77,12): error C2039: 'CoaCpuSet': bir '_SYSTEM_CPU_SET_INFORMATION' üyesi değil
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14055,34):
+      '_SYSTEM_CPU_SET_INFORMATION' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(78,12): error C2039: 'CoaCpuSet': bir '_SYSTEM_CPU_SET_INFORMATION' üyesi değil
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14055,34):
+      '_SYSTEM_CPU_SET_INFORMATION' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(79,12): error C2039: 'CoaCpuSet': bir '_SYSTEM_CPU_SET_INFORMATION' üyesi değil
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14055,34):
+      '_SYSTEM_CPU_SET_INFORMATION' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(80,12): error C2039: 'CoaCpuSet': bir '_SYSTEM_CPU_SET_INFORMATION' üyesi değil
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14055,34):
+      '_SYSTEM_CPU_SET_INFORMATION' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(172,13): warning C4273: 'IsWow64Process2': tutarsız dll bağlantısı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\wow64apiset.h(135,1):
+      önceki 'IsWow64Process2' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(182,13): warning C4273: 'GetVersionExW': tutarsız dll bağlantısı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\sysinfoapi.h(407,1):
+      önceki 'GetVersionExW' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(194,13): warning C4273: 'GetVersionExA': tutarsız dll bağlantısı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\sysinfoapi.h(398,1):
+      önceki 'GetVersionExA' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(224,13): error C2733: 'GetSystemWow64Directory2W': 'Extern "C"' bağlantısına sahip bir işlev aşırı yüklenemez
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\wow64apiset.h(167,1):
+      'GetSystemWow64Directory2W' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(234,13): error C2733: 'GetSystemWow64Directory2A': 'Extern "C"' bağlantısına sahip bir işlev aşırı yüklenemez
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\wow64apiset.h(156,1):
+      'GetSystemWow64Directory2A' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(245,13): error C2556: 'BOOL IsWow64GuestMachineSupported(USHORT,PBOOL)': aşırı yüklenen sanal işlev ile 'HRESULT IsWow64GuestMachineSupported(USHORT,BOOL *)' arasındaki tek fark dönüş türü
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\wow64apiset.h(187,1):
+      'IsWow64GuestMachineSupported' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(245,13): error C2371: 'IsWow64GuestMachineSupported': yeniden tanımlama; temel türler farklı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\wow64apiset.h(187,1):
+      'IsWow64GuestMachineSupported' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(245,13): error C2491: 'IsWow64GuestMachineSupported': işlev dllimport tanımına izin verilmiyor
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(270,13): error C2556: 'BOOL QueryAuxiliaryCounterFrequency(PULONGLONG)': aşırı yüklenen sanal işlev ile 'HRESULT QueryAuxiliaryCounterFrequency(PULONGLONG)' arasındaki tek fark dönüş türü
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\realtimeapiset.h(109,1):
+      'QueryAuxiliaryCounterFrequency' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(270,13): error C2371: 'QueryAuxiliaryCounterFrequency': yeniden tanımlama; temel türler farklı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\realtimeapiset.h(109,1):
+      'QueryAuxiliaryCounterFrequency' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(270,13): error C2491: 'QueryAuxiliaryCounterFrequency': işlev dllimport tanımına izin verilmiyor
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(291,13): warning C4273: 'VerifyVersionInfoA': tutarsız dll bağlantısı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winbase.h(8154,1):
+      önceki 'VerifyVersionInfoA' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(349,13): warning C4273: 'VerifyVersionInfoW': tutarsız dll bağlantısı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winbase.h(8162,1):
+      önceki 'VerifyVersionInfoW' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(359,6): warning C4273: 'AdjustWindowRectExForDpi': tutarsız dll bağlantısı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winuser.h(9090,1):
+      önceki 'AdjustWindowRectExForDpi' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(377,13): error C2375: 'GetSystemCpuSetInformation': yeniden tanımlama; bağlantı farklı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\processthreadsapi.h(1273,1):
+      'GetSystemCpuSetInformation' bildirimine bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(405,14): warning C4273: 'VirtualAlloc2': tutarsız dll bağlantısı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\memoryapi.h(996,1):
+      önceki 'VirtualAlloc2' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(517,14): warning C4273: 'VirtualAlloc2FromApp': tutarsız dll bağlantısı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\memoryapi.h(1033,1):
+      önceki 'VirtualAlloc2FromApp' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\main.cpp(545,13): warning C4273: 'QueryUnbiasedInterruptTimePrecise': tutarsız dll bağlantısı
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\realtimeapiset.h(84,1):
+      önceki 'QueryUnbiasedInterruptTimePrecise' tanımına bakın
+  
+  forward.cpp
+  rtlgetversion.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(66,9): warning C4005: 'STATUS_WAIT_0': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2611,9):
+      önceki 'STATUS_WAIT_0' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(227,9): warning C4005: 'STATUS_ABANDONED_WAIT_0': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2612,9):
+      önceki 'STATUS_ABANDONED_WAIT_0' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(250,9): warning C4005: 'STATUS_USER_APC': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2613,9):
+      önceki 'STATUS_USER_APC' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(286,9): warning C4005: 'STATUS_TIMEOUT': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2614,9):
+      önceki 'STATUS_TIMEOUT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(295,9): warning C4005: 'STATUS_PENDING': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2615,9):
+      önceki 'STATUS_PENDING' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(751,9): warning C4005: 'DBG_EXCEPTION_HANDLED': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2616,9):
+      önceki 'DBG_EXCEPTION_HANDLED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(760,9): warning C4005: 'DBG_CONTINUE': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2617,9):
+      önceki 'DBG_CONTINUE' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(835,9): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2618,9):
+      önceki 'STATUS_SEGMENT_NOTIFICATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(998,9): warning C4005: 'STATUS_FATAL_APP_EXIT': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2619,9):
+      önceki 'STATUS_FATAL_APP_EXIT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1345,9): warning C4005: 'DBG_REPLY_LATER': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2620,9):
+      önceki 'DBG_REPLY_LATER' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1363,9): warning C4005: 'DBG_TERMINATE_THREAD': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2621,9):
+      önceki 'DBG_TERMINATE_THREAD' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1372,9): warning C4005: 'DBG_TERMINATE_PROCESS': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2622,9):
+      önceki 'DBG_TERMINATE_PROCESS' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1381,9): warning C4005: 'DBG_CONTROL_C': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2623,9):
+      önceki 'DBG_CONTROL_C' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1390,9): warning C4005: 'DBG_PRINTEXCEPTION_C': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2624,9):
+      önceki 'DBG_PRINTEXCEPTION_C' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1399,9): warning C4005: 'DBG_RIPEXCEPTION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2625,9):
+      önceki 'DBG_RIPEXCEPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1408,9): warning C4005: 'DBG_CONTROL_BREAK': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2626,9):
+      önceki 'DBG_CONTROL_BREAK' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1417,9): warning C4005: 'DBG_COMMAND_EXCEPTION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2627,9):
+      önceki 'DBG_COMMAND_EXCEPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1426,9): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2628,9):
+      önceki 'DBG_PRINTEXCEPTION_WIDE_C' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1458,9): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2629,9):
+      önceki 'STATUS_GUARD_PAGE_VIOLATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1469,9): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2630,9):
+      önceki 'STATUS_DATATYPE_MISALIGNMENT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1480,9): warning C4005: 'STATUS_BREAKPOINT': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2631,9):
+      önceki 'STATUS_BREAKPOINT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1491,9): warning C4005: 'STATUS_SINGLE_STEP': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2632,9):
+      önceki 'STATUS_SINGLE_STEP' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1794,9): warning C4005: 'STATUS_LONGJUMP': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2633,9):
+      önceki 'STATUS_LONGJUMP' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1821,9): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2634,9):
+      önceki 'STATUS_UNWIND_CONSOLIDATE' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1945,9): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2635,9):
+      önceki 'DBG_EXCEPTION_NOT_HANDLED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2112,9): warning C4005: 'STATUS_ACCESS_VIOLATION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2636,9):
+      önceki 'STATUS_ACCESS_VIOLATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2121,9): warning C4005: 'STATUS_IN_PAGE_ERROR': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2637,9):
+      önceki 'STATUS_IN_PAGE_ERROR' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2139,9): warning C4005: 'STATUS_INVALID_HANDLE': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2638,9):
+      önceki 'STATUS_INVALID_HANDLE' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2184,9): warning C4005: 'STATUS_INVALID_PARAMETER': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2639,9):
+      önceki 'STATUS_INVALID_PARAMETER' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2284,9): warning C4005: 'STATUS_NO_MEMORY': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2640,9):
+      önceki 'STATUS_NO_MEMORY' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2341,9): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2641,9):
+      önceki 'STATUS_ILLEGAL_INSTRUCTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2422,9): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2642,9):
+      önceki 'STATUS_NONCONTINUABLE_EXCEPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2431,9): warning C4005: 'STATUS_INVALID_DISPOSITION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2643,9):
+      önceki 'STATUS_INVALID_DISPOSITION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3364,9): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2644,9):
+      önceki 'STATUS_ARRAY_BOUNDS_EXCEEDED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3374,9): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2645,9):
+      önceki 'STATUS_FLOAT_DENORMAL_OPERAND' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3384,9): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2646,9):
+      önceki 'STATUS_FLOAT_DIVIDE_BY_ZERO' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3394,9): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2647,9):
+      önceki 'STATUS_FLOAT_INEXACT_RESULT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3404,9): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2648,9):
+      önceki 'STATUS_FLOAT_INVALID_OPERATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3414,9): warning C4005: 'STATUS_FLOAT_OVERFLOW': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2649,9):
+      önceki 'STATUS_FLOAT_OVERFLOW' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3424,9): warning C4005: 'STATUS_FLOAT_STACK_CHECK': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2650,9):
+      önceki 'STATUS_FLOAT_STACK_CHECK' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3434,9): warning C4005: 'STATUS_FLOAT_UNDERFLOW': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2651,9):
+      önceki 'STATUS_FLOAT_UNDERFLOW' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3444,9): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2652,9):
+      önceki 'STATUS_INTEGER_DIVIDE_BY_ZERO' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3454,9): warning C4005: 'STATUS_INTEGER_OVERFLOW': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2653,9):
+      önceki 'STATUS_INTEGER_OVERFLOW' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3464,9): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2654,9):
+      önceki 'STATUS_PRIVILEGED_INSTRUCTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4410,9): warning C4005: 'STATUS_STACK_OVERFLOW': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2655,9):
+      önceki 'STATUS_STACK_OVERFLOW' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4927,9): warning C4005: 'STATUS_DLL_NOT_FOUND': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2656,9):
+      önceki 'STATUS_DLL_NOT_FOUND' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4956,9): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2657,9):
+      önceki 'STATUS_ORDINAL_NOT_FOUND' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4966,9): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2658,9):
+      önceki 'STATUS_ENTRYPOINT_NOT_FOUND' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4976,9): warning C4005: 'STATUS_CONTROL_C_EXIT': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2659,9):
+      önceki 'STATUS_CONTROL_C_EXIT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(5054,9): warning C4005: 'STATUS_DLL_INIT_FAILED': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2660,9):
+      önceki 'STATUS_DLL_INIT_FAILED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(6051,9): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2661,9):
+      önceki 'STATUS_CONTROL_STACK_VIOLATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7645,9): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2662,9):
+      önceki 'STATUS_FLOAT_MULTIPLE_FAULTS' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7655,9): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2663,9):
+      önceki 'STATUS_FLOAT_MULTIPLE_TRAPS' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7787,9): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2664,9):
+      önceki 'STATUS_REG_NAT_CONSUMPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(8770,9): warning C4005: 'STATUS_HEAP_CORRUPTION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2665,9):
+      önceki 'STATUS_HEAP_CORRUPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(8998,9): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2666,9):
+      önceki 'STATUS_STACK_BUFFER_OVERRUN' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(9125,9): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2667,9):
+      önceki 'STATUS_INVALID_CRUNTIME_PARAMETER' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(9188,9): warning C4005: 'STATUS_ASSERTION_FAILURE': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2668,9):
+      önceki 'STATUS_ASSERTION_FAILURE' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10097,9): warning C4005: 'STATUS_ENCLAVE_VIOLATION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2669,9):
+      önceki 'STATUS_ENCLAVE_VIOLATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10884,9): warning C4005: 'STATUS_INTERRUPTED': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2670,9):
+      önceki 'STATUS_INTERRUPTED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10893,9): warning C4005: 'STATUS_THREAD_NOT_RUNNING': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2671,9):
+      önceki 'STATUS_THREAD_NOT_RUNNING' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(11205,9): warning C4005: 'STATUS_ALREADY_REGISTERED': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2672,9):
+      önceki 'STATUS_ALREADY_REGISTERED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(15323,9): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2674,9):
+      önceki 'STATUS_SXS_EARLY_DEACTIVATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(15332,9): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2675,9):
+      önceki 'STATUS_SXS_INVALID_DEACTIVATION' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(35,9): warning C4005: 'MEM_EXTENDED_PARAMETER_NONPAGED': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14655,9):
+      önceki 'MEM_EXTENDED_PARAMETER_NONPAGED' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(36,9): warning C4005: 'MEM_EXTENDED_PARAMETER_NONPAGED_LARGE': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14657,9):
+      önceki 'MEM_EXTENDED_PARAMETER_NONPAGED_LARGE' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(37,9): warning C4005: 'MEM_EXTENDED_PARAMETER_NONPAGED_HUGE': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14658,9):
+      önceki 'MEM_EXTENDED_PARAMETER_NONPAGED_HUGE' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(38,9): warning C4005: 'MEM_EXTENDED_PARAMETER_EC_CODE': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14660,9):
+      önceki 'MEM_EXTENDED_PARAMETER_EC_CODE' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(41,9): warning C4005: 'NUMA_NO_PREFERRED_NODE': makro yeniden tanımlama
+  ('rtlgetversion.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\minwinbase.h(453,9):
+      önceki 'NUMA_NO_PREFERRED_NODE' tanımına bakın
+  
+  tests.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(66,9): warning C4005: 'STATUS_WAIT_0': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2611,9):
+      önceki 'STATUS_WAIT_0' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(227,9): warning C4005: 'STATUS_ABANDONED_WAIT_0': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2612,9):
+      önceki 'STATUS_ABANDONED_WAIT_0' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(250,9): warning C4005: 'STATUS_USER_APC': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2613,9):
+      önceki 'STATUS_USER_APC' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(286,9): warning C4005: 'STATUS_TIMEOUT': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2614,9):
+      önceki 'STATUS_TIMEOUT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(295,9): warning C4005: 'STATUS_PENDING': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2615,9):
+      önceki 'STATUS_PENDING' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(751,9): warning C4005: 'DBG_EXCEPTION_HANDLED': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2616,9):
+      önceki 'DBG_EXCEPTION_HANDLED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(760,9): warning C4005: 'DBG_CONTINUE': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2617,9):
+      önceki 'DBG_CONTINUE' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(835,9): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2618,9):
+      önceki 'STATUS_SEGMENT_NOTIFICATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(998,9): warning C4005: 'STATUS_FATAL_APP_EXIT': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2619,9):
+      önceki 'STATUS_FATAL_APP_EXIT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1345,9): warning C4005: 'DBG_REPLY_LATER': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2620,9):
+      önceki 'DBG_REPLY_LATER' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1363,9): warning C4005: 'DBG_TERMINATE_THREAD': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2621,9):
+      önceki 'DBG_TERMINATE_THREAD' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1372,9): warning C4005: 'DBG_TERMINATE_PROCESS': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2622,9):
+      önceki 'DBG_TERMINATE_PROCESS' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1381,9): warning C4005: 'DBG_CONTROL_C': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2623,9):
+      önceki 'DBG_CONTROL_C' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1390,9): warning C4005: 'DBG_PRINTEXCEPTION_C': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2624,9):
+      önceki 'DBG_PRINTEXCEPTION_C' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1399,9): warning C4005: 'DBG_RIPEXCEPTION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2625,9):
+      önceki 'DBG_RIPEXCEPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1408,9): warning C4005: 'DBG_CONTROL_BREAK': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2626,9):
+      önceki 'DBG_CONTROL_BREAK' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1417,9): warning C4005: 'DBG_COMMAND_EXCEPTION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2627,9):
+      önceki 'DBG_COMMAND_EXCEPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1426,9): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2628,9):
+      önceki 'DBG_PRINTEXCEPTION_WIDE_C' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1458,9): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2629,9):
+      önceki 'STATUS_GUARD_PAGE_VIOLATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1469,9): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2630,9):
+      önceki 'STATUS_DATATYPE_MISALIGNMENT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1480,9): warning C4005: 'STATUS_BREAKPOINT': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2631,9):
+      önceki 'STATUS_BREAKPOINT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1491,9): warning C4005: 'STATUS_SINGLE_STEP': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2632,9):
+      önceki 'STATUS_SINGLE_STEP' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1794,9): warning C4005: 'STATUS_LONGJUMP': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2633,9):
+      önceki 'STATUS_LONGJUMP' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1821,9): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2634,9):
+      önceki 'STATUS_UNWIND_CONSOLIDATE' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1945,9): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2635,9):
+      önceki 'DBG_EXCEPTION_NOT_HANDLED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2112,9): warning C4005: 'STATUS_ACCESS_VIOLATION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2636,9):
+      önceki 'STATUS_ACCESS_VIOLATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2121,9): warning C4005: 'STATUS_IN_PAGE_ERROR': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2637,9):
+      önceki 'STATUS_IN_PAGE_ERROR' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2139,9): warning C4005: 'STATUS_INVALID_HANDLE': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2638,9):
+      önceki 'STATUS_INVALID_HANDLE' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2184,9): warning C4005: 'STATUS_INVALID_PARAMETER': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2639,9):
+      önceki 'STATUS_INVALID_PARAMETER' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2284,9): warning C4005: 'STATUS_NO_MEMORY': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2640,9):
+      önceki 'STATUS_NO_MEMORY' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2341,9): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2641,9):
+      önceki 'STATUS_ILLEGAL_INSTRUCTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2422,9): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2642,9):
+      önceki 'STATUS_NONCONTINUABLE_EXCEPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2431,9): warning C4005: 'STATUS_INVALID_DISPOSITION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2643,9):
+      önceki 'STATUS_INVALID_DISPOSITION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3364,9): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2644,9):
+      önceki 'STATUS_ARRAY_BOUNDS_EXCEEDED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3374,9): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2645,9):
+      önceki 'STATUS_FLOAT_DENORMAL_OPERAND' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3384,9): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2646,9):
+      önceki 'STATUS_FLOAT_DIVIDE_BY_ZERO' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3394,9): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2647,9):
+      önceki 'STATUS_FLOAT_INEXACT_RESULT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3404,9): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2648,9):
+      önceki 'STATUS_FLOAT_INVALID_OPERATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3414,9): warning C4005: 'STATUS_FLOAT_OVERFLOW': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2649,9):
+      önceki 'STATUS_FLOAT_OVERFLOW' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3424,9): warning C4005: 'STATUS_FLOAT_STACK_CHECK': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2650,9):
+      önceki 'STATUS_FLOAT_STACK_CHECK' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3434,9): warning C4005: 'STATUS_FLOAT_UNDERFLOW': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2651,9):
+      önceki 'STATUS_FLOAT_UNDERFLOW' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3444,9): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2652,9):
+      önceki 'STATUS_INTEGER_DIVIDE_BY_ZERO' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3454,9): warning C4005: 'STATUS_INTEGER_OVERFLOW': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2653,9):
+      önceki 'STATUS_INTEGER_OVERFLOW' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3464,9): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2654,9):
+      önceki 'STATUS_PRIVILEGED_INSTRUCTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4410,9): warning C4005: 'STATUS_STACK_OVERFLOW': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2655,9):
+      önceki 'STATUS_STACK_OVERFLOW' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4927,9): warning C4005: 'STATUS_DLL_NOT_FOUND': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2656,9):
+      önceki 'STATUS_DLL_NOT_FOUND' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4956,9): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2657,9):
+      önceki 'STATUS_ORDINAL_NOT_FOUND' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4966,9): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2658,9):
+      önceki 'STATUS_ENTRYPOINT_NOT_FOUND' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4976,9): warning C4005: 'STATUS_CONTROL_C_EXIT': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2659,9):
+      önceki 'STATUS_CONTROL_C_EXIT' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(5054,9): warning C4005: 'STATUS_DLL_INIT_FAILED': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2660,9):
+      önceki 'STATUS_DLL_INIT_FAILED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(6051,9): warning C4005: 'STATUS_CONTROL_STACK_VIOLATION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2661,9):
+      önceki 'STATUS_CONTROL_STACK_VIOLATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7645,9): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2662,9):
+      önceki 'STATUS_FLOAT_MULTIPLE_FAULTS' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7655,9): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2663,9):
+      önceki 'STATUS_FLOAT_MULTIPLE_TRAPS' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7787,9): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2664,9):
+      önceki 'STATUS_REG_NAT_CONSUMPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(8770,9): warning C4005: 'STATUS_HEAP_CORRUPTION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2665,9):
+      önceki 'STATUS_HEAP_CORRUPTION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(8998,9): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2666,9):
+      önceki 'STATUS_STACK_BUFFER_OVERRUN' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(9125,9): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2667,9):
+      önceki 'STATUS_INVALID_CRUNTIME_PARAMETER' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(9188,9): warning C4005: 'STATUS_ASSERTION_FAILURE': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2668,9):
+      önceki 'STATUS_ASSERTION_FAILURE' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10097,9): warning C4005: 'STATUS_ENCLAVE_VIOLATION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2669,9):
+      önceki 'STATUS_ENCLAVE_VIOLATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10884,9): warning C4005: 'STATUS_INTERRUPTED': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2670,9):
+      önceki 'STATUS_INTERRUPTED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10893,9): warning C4005: 'STATUS_THREAD_NOT_RUNNING': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2671,9):
+      önceki 'STATUS_THREAD_NOT_RUNNING' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(11205,9): warning C4005: 'STATUS_ALREADY_REGISTERED': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2672,9):
+      önceki 'STATUS_ALREADY_REGISTERED' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(15323,9): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2674,9):
+      önceki 'STATUS_SXS_EARLY_DEACTIVATION' tanımına bakın
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(15332,9): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2675,9):
+      önceki 'STATUS_SXS_INVALID_DEACTIVATION' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(35,9): warning C4005: 'MEM_EXTENDED_PARAMETER_NONPAGED': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14655,9):
+      önceki 'MEM_EXTENDED_PARAMETER_NONPAGED' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(36,9): warning C4005: 'MEM_EXTENDED_PARAMETER_NONPAGED_LARGE': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14657,9):
+      önceki 'MEM_EXTENDED_PARAMETER_NONPAGED_LARGE' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(37,9): warning C4005: 'MEM_EXTENDED_PARAMETER_NONPAGED_HUGE': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14658,9):
+      önceki 'MEM_EXTENDED_PARAMETER_NONPAGED_HUGE' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(38,9): warning C4005: 'MEM_EXTENDED_PARAMETER_EC_CODE': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(14660,9):
+      önceki 'MEM_EXTENDED_PARAMETER_EC_CODE' tanımına bakın
+  
+C:\Users\alper\CompatibilityAPI\coak32\coak32\kernel32\coak32.h(41,9): warning C4005: 'NUMA_NO_PREFERRED_NODE': makro yeniden tanımlama
+  ('tests.cpp' kaynak dosyası derleniyor)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\minwinbase.h(453,9):
+      önceki 'NUMA_NO_PREFERRED_NODE' tanımına bakın
+  
+  C/C++ İçin Code Analysis Çalıştırılıyor...

@@ -1,0 +1,4 @@
+V1
+V2 - rc 0.1
+V2 - rc 0.2
+V2.0.0(Bu sürüm/This release)

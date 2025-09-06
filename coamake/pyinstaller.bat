@@ -1,0 +1,1 @@
+pyinstaller.exe --icon=ico.ico --onefile coamake.py

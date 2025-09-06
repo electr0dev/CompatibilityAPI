@@ -1,0 +1,1 @@
+Daha önceki sürümde 64 bitti, uyumluluk için 32 bite geçildi. Eğer elle derleyecekseniz 32 bit pyinstaller oluşturun. Bunu python 32 bit sürümü ile yapabilirsiniz.
