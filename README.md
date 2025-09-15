@@ -11,7 +11,7 @@ user.bat ile yada coaload.exe <uygulama\yolu\ornek.exe>
 ```                                                                                                                                     
 şeklinde kullanılabilir.
 
-Setup çalıştırıldıktan sonra user.bat'ın masaüstü kısayolu bulunmaktadır.
+Setup çalıştırıldıktan sonra user.bat'ın masaüstü kısayolu bulunmaktadır. Eğer uygulamanız birden fazla çalıştırılabilir dosya(exe/dll) içeriyorsa hepsini modifiye etmeniz gerekmekte.
 
 ## Usage
 To set it up for the first time, run coasetup.exe. Once that’s done, you can use it like this:
@@ -21,7 +21,7 @@ with user.bat or
 coaload.exe <path\tofile\ornek.exe>
 ```
 
-After running the coasetup.exe, a shortcut to user.bat will be available on the desktop.
+After running the coasetup.exe, a shortcut to user.bat will be available on the desktop. If your app uses more than one executable (EXE/DLL), you need to modify all of them.
 
 ## Uygulama uyumlulugu ✔
 Chromium uygulamaları için destek üzerine çalışılıyor. Testbuildleri Chromium üzerinde test edip ortaya çıkan sorunlar(varsa) issue açarsanız geliştirmeye büyük oranda katkı sağlamış olursunuz.
